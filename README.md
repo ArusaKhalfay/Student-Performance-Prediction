@@ -6,7 +6,7 @@ The objective of this project is to analyze how parental background, test prepar
 ## Technologies Used
 </h3>
 <br>
-<p align="center">
+<p align="left">
         <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/>
         <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/>
         <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/>
@@ -18,7 +18,7 @@ The objective of this project is to analyze how parental background, test prepar
 </div>
 <br>
 
-`Python`  `Jupyter Notebook` `AWS Beanstalk`  `CI/CD Pipelines`  `Machine Learning Algorithms`  `Flask`  `Git`
+`Python`  `Jupyter Notebook` `AWS Elastic Beanstalk`  `CI/CD Pipelines`  `Machine Learning Algorithms`  `Flask`  `Git`
 
 ## Dataset
 There are 8 independent variables:
