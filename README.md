@@ -1,4 +1,5 @@
 # Student Performance Prediction
+The objective of this project is to analyze how parental background, test preparation, and the ethnicity of a student impact the students' math scores.
 
 
 
@@ -16,6 +17,8 @@
 </p>
 </div>
 <br>
+
+`Python`  `Jupyter Notebook` `AWS Beanstalk`  `CI/CD Pipelines`  `Machine Learning Algorithms`  `Flask`  `Git`
 
 ## Dataset
 There are 8 independent variables:
