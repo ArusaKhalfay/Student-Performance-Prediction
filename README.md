@@ -40,3 +40,42 @@ Dataset Source Link :
 
 ## Application Demo
 ![Untitled_Project_V2](https://github.com/user-attachments/assets/958ce035-cf81-47a7-a3cf-8adf533585e3)
+
+Project Development Approach
+1. Data Ingestion:
+
+- Data was read from a CSV file.
+- Data was split into training and testing sets.
+- Training and testing sets were saved as separate CSV files.
+- Data Transformation:
+
+2. A ColumnTransformer Pipeline was created.
+- For numeric variables:
+- SimpleImputer with the median strategy was applied.
+  
+- For categorical variables:
+- SimpleImputer with the most frequent strategy was applied.
+- One-hot encoding was performed.
+
+- The preprocessor was saved as a PKL file in the artifacts folder.
+
+3. Model Training:
+- Various models were trained and evaluated.
+- Linear Regression was selected as the best-performing model.
+- Hyperparameter tuning was performed.
+- The final model was saved as a PKL file.
+
+4. Prediction Pipeline:
+- Input data was converted into a DataFrame.
+- Necessary PKL files were loaded.
+- Predictions were generated using the trained model.
+
+5. Flask App Creation:
+
+- A Flask app was developed with a user interface for predicting math scores.
+- Users were able to input data and receive predictions.
+
+6. Deployment:
+
+- The application was deployed using AWS Elastic Beanstalk.
+- CI/CD pipelines were implemented for automated updates and maintenance.
