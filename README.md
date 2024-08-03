@@ -1,4 +1,4 @@
-# Student Performance Prediction
+# Student Score Prediction
 The objective of this project is to analyze how parental background, test preparation, and the ethnicity of a student impact the students' math scores.
 
 
