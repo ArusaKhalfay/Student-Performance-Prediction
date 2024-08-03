@@ -41,7 +41,7 @@ Dataset Source Link :
 ## Application Demo
 ![Untitled_Project_V2](https://github.com/user-attachments/assets/958ce035-cf81-47a7-a3cf-8adf533585e3)
 
-Project Development Approach
+## Project Development Approach
 1. Data Ingestion:
 
 - Data was read from a CSV file.
