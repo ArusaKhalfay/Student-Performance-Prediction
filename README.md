@@ -1,6 +1,6 @@
 # Student Performance Prediction
 
-## Technologies used
+## Technologies Used
 </h3>
 <br>
 <p align="center">
